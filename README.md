@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/mendisofficial/mendisofficial/main/header-image.png)](https://mendisofficial.github.io/)
 <h1 align="center">Hi 👋, I'm Chathusha Mendis</h1>
 <h3 align="center">A Software Engineering undergraduate student from Sri Lanka to be a Full Stack Developer</h3>
 
