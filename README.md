@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "MedicaLink"<br>🌱 I’m currently learning "MERN Stack"<br>⚡ Fun fact - I'm an Apple Enthusiastic
+🔭 I’m currently working on "NOTHING". Currently, there's no time for personal projects<br>🌱 I’m presently learning "React with Typescript"<br>⚡ Fun fact - I'm an Apple Enthusiastic
 
 
 ## 🌐 Socials:
