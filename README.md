@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "NOTHING". Currently, there's no time for personal projects<br>🌱 I’m presently learning "React with Typescript"<br>⚡ Fun fact - I'm an Apple Enthusiastic
+🔭 I’m currently working on a PHP Laravel E-Commerce project.<br>🌱 I’m presently learning "Laravel Framework"<br>⚡ Fun fact - I'm an iSheep. Ask me about how to optimimize your MacBook.
 
 
 ## 🌐 Socials:
